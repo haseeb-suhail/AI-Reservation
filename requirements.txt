@@ -1,0 +1,18 @@
+Django
+djangorestframework==3.14
+django-cors-headers==3.13.0
+djangorestframework-simplejwt
+psycopg2-binary==2.9.6  # PostgreSQL adapter for Python
+elevenlabs~=1.7.0
+pathlib~=1.0.1
+pydantic~=2.9.0
+pydub~=0.25.1
+channels
+django-phonenumber-field
+phonenumbers
+django-oauth-toolkit
+argon2-cffi
+django-rest-swagger
+drf-yasg
+assemblyai
+dateparser
